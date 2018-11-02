@@ -3,8 +3,7 @@
 Easily setup and switch between different color schemes and background
 This plugin lets you set up color-bg combinations and easily switch between them.
 
-
-![Gif](https://media.giphy.com/media/1O431gKYbNIoYnmePm/giphy.gif)
+<img src="https://media.giphy.com/media/1O431gKYbNIoYnmePm/giphy.gif" width="600" height="350" />
 
 ## 1. Install
 
