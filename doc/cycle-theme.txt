@@ -1,0 +1,25 @@
+
+*cycle-theme.txt*  Plugin for cycling through user themes*
+
+Author:  Kashif
+License: MIT License
+
+INTRODUCTION                                    *cycle-theme*
+
+Setup your themes in vimrc
+
+let g:cycle_theme_list=[
+  \ ['gruvbox', 'dark'],
+  \ ['solarized8', 'light'],
+  \ ['solarized8', 'dark'],
+\]
+
+the first value is the color scheme and second one is the bg
+
+and use the following commands to cycle through
+
+:CycleThemeNext
+:CycleThemePrevious
+:CycleThemeReset
+
+
